@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T15:33:02.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c5MBy-IdWAffCxVY9P9G" version="22.1.15" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-01T15:36:28.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iHNEcqizeMg4pSP-IeE8" version="22.1.15" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="4ypQ99d6NAr8otvOwCjA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ypQ99d6NAr8otvOwCjA-1" target="4ypQ99d6NAr8otvOwCjA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ypQ99d6NAr8otvOwCjA-5" value="title&lt;br&gt;jurusan&lt;br&gt;deskripsi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ypQ99d6NAr8otvOwCjA-3">
+        <mxCell id="4ypQ99d6NAr8otvOwCjA-5" value="info title&lt;br&gt;info jurusan&lt;br&gt;info deskripsi&lt;br&gt;info visualisasi data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ypQ99d6NAr8otvOwCjA-3">
           <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -178,7 +178,7 @@
         <mxCell id="y7wj0FVku6h9emEToIs7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y7wj0FVku6h9emEToIs7-1" target="y7wj0FVku6h9emEToIs7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y7wj0FVku6h9emEToIs7-7" value="informasi klasifikasi buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y7wj0FVku6h9emEToIs7-3">
+        <mxCell id="y7wj0FVku6h9emEToIs7-7" value="informasi klasifikasi buku&lt;br&gt;infomasi visualisasi data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y7wj0FVku6h9emEToIs7-3">
           <mxGeometry x="-0.5429" y="3" relative="1" as="geometry">
             <mxPoint x="-28" y="-3" as="offset" />
           </mxGeometry>
