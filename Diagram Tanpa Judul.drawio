@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T03:51:55.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-aObL6Ac0D2Y6JNYhTqf" version="22.1.16" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-05T04:28:49.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P5DcJFfAmoQ_45NIsGPL" version="22.1.16" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1222" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="feq6fFheX3jriyTF7tDt" name="Halaman-5">
-    <mxGraphModel dx="1622" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,18 +536,18 @@
         <mxCell id="xPQFLStLtVQHXfJK2Squ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="muc86q6Ysgm2a1g4RY8G-1" target="muc86q6Ysgm2a1g4RY8G-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fsFavfLD0UjSlQQtpO6j-3" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;infomasi visualisasi data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-11">
+        <mxCell id="fsFavfLD0UjSlQQtpO6j-3" value="dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-11">
           <mxGeometry x="-0.4889" y="-2" relative="1" as="geometry">
-            <mxPoint x="-31" y="-4" as="offset" />
+            <mxPoint x="-29" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="muc86q6Ysgm2a1g4RY8G-1" value="3.0&lt;br&gt;menu&lt;br&gt;visualisasi data" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="muc86q6Ysgm2a1g4RY8G-1" value="3.0&lt;br&gt;menu&lt;br&gt;dashboard" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14" y="483" width="97.5" height="96" as="geometry" />
         </mxCell>
         <mxCell id="xPQFLStLtVQHXfJK2Squ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="muc86q6Ysgm2a1g4RY8G-3" target="xPQFLStLtVQHXfJK2Squ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xPQFLStLtVQHXfJK2Squ-8" value="id menu klasifikasi buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-7">
+        <mxCell id="xPQFLStLtVQHXfJK2Squ-8" value="id menu list buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-7">
           <mxGeometry x="0.1389" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -555,7 +555,7 @@
         <mxCell id="xPQFLStLtVQHXfJK2Squ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="muc86q6Ysgm2a1g4RY8G-3" target="muc86q6Ysgm2a1g4RY8G-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="urUPdzok838jwK3SZlz8-4" value="id menu visualisasi data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-9">
+        <mxCell id="urUPdzok838jwK3SZlz8-4" value="id menu dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-9">
           <mxGeometry x="0.2937" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -569,12 +569,12 @@
         <mxCell id="xPQFLStLtVQHXfJK2Squ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xPQFLStLtVQHXfJK2Squ-2" target="muc86q6Ysgm2a1g4RY8G-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fsFavfLD0UjSlQQtpO6j-2" value="informasi klasifikasi buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-10">
+        <mxCell id="fsFavfLD0UjSlQQtpO6j-2" value="list buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xPQFLStLtVQHXfJK2Squ-10">
           <mxGeometry x="-0.1598" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPQFLStLtVQHXfJK2Squ-2" value="2.0&lt;br&gt;menu&lt;br&gt;klasifikasi buku" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xPQFLStLtVQHXfJK2Squ-2" value="2.0&lt;br&gt;menu&lt;br&gt;list buku" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="21" y="294" width="97.5" height="96" as="geometry" />
         </mxCell>
       </root>
